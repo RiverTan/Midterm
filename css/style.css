@@ -1,0 +1,9 @@
+.card-title i{
+  float: right;
+  font-size: 24px;
+  color: gray;
+}
+
+.fa-play-circle:hover{
+  color: #017BFF;
+}
